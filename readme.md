@@ -1,6 +1,6 @@
 #teams.vbs
 ## this script runs best when used with task scheduler.
-## task schedular is available on windows10.
+## task scheduler is available on windows10.
 
 how to use
 
